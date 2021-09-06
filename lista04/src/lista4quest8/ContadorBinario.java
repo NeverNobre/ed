@@ -12,6 +12,7 @@ public class ContadorBinario {
 		for (int i=1; i<=n; i++) {
 			fila.add(this.NumeroParaBinario(i));
 		}
+		System.out.println("$ java ContadorBinario");
 		while(!fila.isEmpty())
 			System.out.println(fila.poll());
 		
