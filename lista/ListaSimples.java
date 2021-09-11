@@ -25,13 +25,14 @@ public class ListaSimples<T> {
     public void insereFim(int chave, T dados) {
         if (this.vazia()) { 
             this.insereInicio(chave, dados);
+        } else {
+            Elemento<T> e = new Elemento<T>(chave,dados);
+            Elemento<T> atual = this.frente;
+            while (atual.getProximo() != null) {
+                atual = atual.getProximo();
+            }
+            atual.setProximo(e);    
         }
-        Elemento<T> e = new Elemento<T>(chave,dados);
-        Elemento<T> atual = this.frente;
-        while (atual.getProximo() != null) {
-            atual = atual.getProximo();
-        }
-        atual.setProximo(e);
     }
 
     public Elemento<T> getInicio() throws Exception {

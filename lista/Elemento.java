@@ -30,10 +30,6 @@ public class Elemento<T> {
         this.chave = chave;
     }
 
-    public void setChave(T dados) {
-        this.dados = dados;
-    }
-
     public void setProximo(Elemento<T> p) {
         this.proximo = p;
     }
