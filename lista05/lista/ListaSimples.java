@@ -21,6 +21,34 @@ public class ListaSimples<T> {
         e.setProximo(this.frente); //se lista vazia, ficar√° nulo; se n√£o, aponta para o primeiro elemento
         this.frente = e;
     }
+    
+    public void insereEm(int posicao, Elemento<T> e) throws Exception{
+    	if (posicao<0) throw new Exception("PosiÁ„o Inv·lida");
+    	if (posicao==0) {
+    		e.setProximo(this.frente);
+    		this.frente=e;
+    	} else {
+    		Elemento<T> atual=this.frente;
+    		int i=1;
+    		if (1==posicao) {
+				e.setProximo(atual.getProximo());
+				atual.setProximo(e);
+				return;
+			}
+    		while (posicao>i) {
+    			if (i==posicao) {
+    				e.setProximo(atual.getProximo());
+    				atual.setProximo(e);
+    				return;
+    			}
+    			i++;
+    			atual=atual.getProximo();
+    		}
+    		throw new Exception("PosiÁ„o Inv·lida");
+    	}
+    	
+    	
+    }
 
     public void insereFim(int chave, T dados) {
         if (this.vazia()) { 
