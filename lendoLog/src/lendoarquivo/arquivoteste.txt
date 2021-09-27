@@ -1,0 +1,106 @@
+
+package lendoarquivo;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.LinkedList;
+import java.util.ListIterator;
+
+public class Teste {
+	
+	public static LinkedList<Enderecoip> listaips;
+	
+	public static void main(String[] args) throws Exception{
+		listaips= new LinkedList<>();
+		/*adicionaNaLista("aaa");	//Teste de inserção na lista
+		adicionaNaLista("aaa");
+		adicionaNaLista("ip");
+		adicionaNaLista("aaa");
+		adicionaNaLista("ip");
+		adicionaNaLista("b");
+		
+		ListIterator<Enderecoip>iterada= listaips.listIterator();
+		while(iterada.hasNext()){
+			Enderecoip endereco= iterada.next();
+			System.out.println(endereco.getIP()+" apareceu "+endereco.getCont()+" vezes");
+		}
+		*/
+		
+		//ListIterator<Enderecoip>iterada= listaips.listIterator();
+		
+		String result[];
+		String file= "src/lendoarquivo/access.log";
+		
+		try {
+		BufferedReader bufferedReader= new BufferedReader(new FileReader(file));
+		
+		
+		long contador=0;
+		
+		String currentLine=bufferedReader.readLine();
+		
+		result= currentLine.split(" - - ");
+		listaips.add(new Enderecoip(result[0])); //o primeiro item existe na lista ainda, adicione imediatamente!
+		atualizaContagem(result[0]);
+		currentLine=bufferedReader.readLine();
+		contador++;
+		
+		while(currentLine!=null) {
+			contador++;
+			result= currentLine.split(" - - ");
+			
+			adicionaNaLista(result[0]);
+			atualizaContagem(result[0]);
+			
+			if(contador%500==0) {
+				int a=0;
+				while(a<listaips.size()){
+				System.out.println(listaips.get(a).getIP()+"\t: "+listaips.get(a).getCont());
+				a++;}
+				//System.out.println(contador);
+				break;}
+			currentLine=bufferedReader.readLine();
+			
+		}
+		
+		
+		} 
+		catch(Exception e){System.out.print(e);};
+		BufferedReader bufferedReader= new BufferedReader(new FileReader("src/lendoarquivo/Lista100enderecos.txt"));
+		
+	}
+	
+	public static void adicionaNaLista(String ip){
+		int a=0;
+		while(a<listaips.size()) {
+			if (listaips.get(a).getIP().equals(ip)) {
+				listaips.get(a).addCont();
+				return;
+			}
+		}
+		listaips.add(new Enderecoip(ip));
+	}
+	
+	public static void atualizaContagem(String ip) {
+		ListIterator<Enderecoip> listaiterada = listaips.listIterator();
+		while(listaiterada.hasNext()){
+			Enderecoip i = listaiterada.next();
+			if(i.getIP().equals(ip)){
+				i.addCont();
+				System.out.println(i.getIP()+"\t contagem: "+i.getCont());
+				return;
+			}	
+		}
+	}
+	public static void encontraip(String ip) {
+		ListIterator<Enderecoip> listaiterada = listaips.listIterator();
+		while(listaiterada.hasNext()){
+			Enderecoip i = listaiterada.next();
+			if(i.getIP().equals(ip)){
+				System.out.println(i.getIP()+"\t contagem: "+i.getCont());
+				return;
+			}
+				
+		}
+	}
+}
