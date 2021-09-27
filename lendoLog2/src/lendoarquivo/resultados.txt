@@ -1,0 +1,200 @@
+Tempo da montagem de dados: 70872685400 nanosegundos
+IP 109.203.138.4 apareceu 9 vezes. Tempo de consulta: 3500 nanosegundos
+
+IP 138.68.89.228 apareceu 3 vezes. Tempo de consulta: 2300 nanosegundos
+
+IP 151.238.124.3 apareceu 34 vezes. Tempo de consulta: 1200	nanosegundos
+
+IP 151.239.180.251 apareceu 17 vezes. Tempo de consulta: 2600 nanosegundos
+
+IP 151.239.67.66 apareceu 82 vezes. Tempo de consulta: 1400	nanosegundos
+
+IP 158.58.30.218 apareceu 1 vezes. Tempo de consulta: 1300 nanosegundos
+
+IP 178.128.193.136 apareceu 16 vezes. Tempo de consulta: 2100 nanosegundos
+
+IP 178.131.70.251 apareceu 1 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 185.101.216.150 apareceu 73 vezes. Tempo de consulta: 3100 nanosegundos
+
+IP 188.158.178.115 apareceu 2 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 188.210.78.211 apareceu 1 vezes. Tempo de consulta: 1400 nanosegundos
+
+IP 192.15.19.245 apareceu 3 vezes. Tempo de consulta: 1200 nanosegundos
+
+IP 192.15.193.5 apareceu 5 vezes. Tempo de consulta: 1300 nanosegundos
+
+IP 204.18.155.229 apareceu 20 vezes. Tempo de consulta: 1200 nanosegundos
+
+IP 2.179.160.137 apareceu 35 vezes. Tempo de consulta: 1600 nanosegundos
+
+IP 2.182.138.55 apareceu 9 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 2.191.227.144 apareceu 1 vezes. Tempo de consulta: 1200 nanosegundos
+
+IP 31.56.102.211 apareceu 1 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 31.56.159.124 apareceu 1 vezes. Tempo de consulta: 2700 nanosegundos
+
+IP 31.56.192.62 apareceu 46 vezes. Tempo de consulta: 2100 nanosegundos
+
+IP 31.59.181.44 apareceu 30 vezes. Tempo de consulta: 2100 nanosegundos
+
+IP 37.19.92.122 apareceu 191 vezes. Tempo de consulta: 1300 nanosegundos
+
+IP 37.32.45.115 apareceu 1 vezes. Tempo de consulta: 1500 nanosegundos
+
+IP 40.77.192.118 apareceu 7 vezes. Tempo de consulta: 1300 nanosegundos
+
+IP 40.77.192.125 apareceu 1 vezes. Tempo de consulta: 3600 nanosegundos
+
+IP 46.248.49.47 apareceu 43 vezes. Tempo de consulta: 2100 nanosegundos
+
+IP 46.41.210.95 apareceu 22 vezes. Tempo de consulta: 1600 nanosegundos
+
+IP 5.112.184.86 apareceu 73 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.112.87.152 apareceu 23 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.113.138.56 apareceu 3 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.113.217.57 apareceu 3 vezes. Tempo de consulta: 2100 nanosegundos
+
+IP 5.114.238.230 apareceu 28 vezes. Tempo de consulta: 1600 nanosegundos
+
+IP 5.114.245.223 apareceu 15 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.114.37.171 apareceu 1 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.114.86.57 apareceu 48 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 5.115.1.102 apareceu 9 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 5.115.12.252 apareceu 1 vezes. Tempo de consulta: 2500 nanosegundos
+
+IP 5.116.106.110 apareceu 1 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.116.18.92 apareceu 3 vezes. Tempo de consulta: 2400 nanosegundos
+
+IP 5.116.4.200 apareceu 1 vezes. Tempo de consulta: 2300 nanosegundos
+
+IP 5.119.13.239 apareceu 1 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 5.119.203.1 apareceu 27 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 5.120.208.157 apareceu 1 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.121.117.15 apareceu 1 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 192.168.0.1 apareceu 0 vezes. Tempo de consulta: 1200 nanosegundos
+
+IP 5.121.51.18 apareceu 1 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 5.121.70.137 apareceu 33 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.122.165.152 apareceu 2 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 5.122.21.133 apareceu 33 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.122.221.229 apareceu 28 vezes. Tempo de consulta: 2700 nanosegundos
+
+IP 5.122.76.187 apareceu 15 vezes. Tempo de consulta: 2300 nanosegundos
+
+IP 5.123.144.95 apareceu 1 vezes. Tempo de consulta: 2100 nanosegundos
+
+IP 5.123.165.86 apareceu 1 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.123.166.223 apareceu 11 vezes. Tempo de consulta: 1400 nanosegundos
+
+IP 5.123.203.168 apareceu 1 vezes. Tempo de consulta: 2200 nanosegundos
+
+IP 5.124.223.22 apareceu 1 vezes. Tempo de consulta: 2100 nanosegundos
+
+IP 5.125.226.156 apareceu 2 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 5.125.53.234 apareceu 1 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.126.213.87 apareceu 4 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.127.12.133 apareceu 1 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 5.127.1.252 apareceu 1 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.127.147.132 apareceu 2 vezes. Tempo de consulta: 2200 nanosegundos
+
+IP 5.127.175.169 apareceu 1 vezes. Tempo de consulta: 2500 nanosegundos
+
+IP 5.160.26.98 apareceu 509 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 5.202.213.125 apareceu 3 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 5.208.159.215 apareceu 3 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.210.108.116 apareceu 1 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.211.135.246 apareceu 1 vezes. Tempo de consulta: 2200 nanosegundos
+
+IP 5.211.205.186 apareceu 1 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.214.59.242 apareceu 11 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 5.215.249.99 apareceu 2 vezes. Tempo de consulta: 1400 nanosegundos
+
+IP 5.216.71.171 apareceu 4 vezes. Tempo de consulta: 1200 nanosegundos
+
+IP 5.218.1.197 apareceu 1 vezes. Tempo de consulta: 2700 nanosegundos
+
+IP 5.52.18.112 apareceu 1 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 5.73.58.85 apareceu 1 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 5.75.14.110 apareceu 1 vezes. Tempo de consulta: 2300 nanosegundos
+
+IP 5.78.77.83 apareceu 1 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 77.238.112.165 apareceu 8 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 77.77.104.174 apareceu 1 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 80.75.8.250 apareceu 58 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 83.120.182.69 apareceu 4 vezes. Tempo de consulta: 1800 nanosegundos
+
+IP 83.121.111.6 apareceu 1 vezes. Tempo de consulta: 1300 nanosegundos
+
+IP 83.122.52.227 apareceu 1 vezes. Tempo de consulta: 1200 nanosegundos
+
+IP 86.107.80.6 apareceu 2 vezes. Tempo de consulta: 1300 nanosegundos
+
+IP 86.55.230.86 apareceu 1 vezes. Tempo de consulta: 1200 nanosegundos
+
+IP 86.55.4.105 apareceu 1 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 89.196.164.45 apareceu 2 vezes. Tempo de consulta: 1600 nanosegundos
+
+IP 89.196.190.208 apareceu 10 vezes. Tempo de consulta: 1700 nanosegundos
+
+IP 89.198.129.186 apareceu 65 vezes. Tempo de consulta: 1600 nanosegundos
+
+IP 89.199.157.16 apareceu 57 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 89.235.81.7 apareceu 1 vezes. Tempo de consulta: 1600 nanosegundos
+
+IP 89.34.42.138 apareceu 8 vezes. Tempo de consulta: 2600 nanosegundos
+
+IP 89.35.65.186 apareceu 1 vezes. Tempo de consulta: 1900 nanosegundos
+
+IP 91.185.147.167 apareceu 2 vezes. Tempo de consulta: 1400 nanosegundos
+
+IP 91.251.210.3 apareceu 2 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 92.223.105.186 apareceu 2 vezes. Tempo de consulta: 1100 nanosegundos
+
+IP 92.38.132.185 apareceu 38 vezes. Tempo de consulta: 2000 nanosegundos
+
+IP 93.110.116.179 apareceu 1 vezes. Tempo de consulta: 1100 nanosegundos
+
+IP 93.118.134.3 apareceu 1 vezes. Tempo de consulta: 1300 nanosegundos
+
+IP 94.139.169.146 apareceu 12 vezes. Tempo de consulta: 2000 nanosegundos
