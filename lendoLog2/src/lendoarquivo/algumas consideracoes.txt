@@ -1,0 +1,16 @@
+referente aos testes em LinkedList e HashMap:
+
+usar LinkedList para montar a base de dados demorou 6 horas 
+enquanto usar HashMap demorou aproximadamente 70.9 segundos
+
+isso se deve ao fato da verificacao se um ip está contido na lista
+ser O(n) para todo item, e como a lista cresce para mais de 200000
+mil itens, a cada nova inserção de dado se torna cada vez demorado
+buscar o proximo item pela lista. o hashmap evita isso.
+
+o acesso às informações na lista é mais lento já que precisamos
+percorrer diversos itens até chegar no item desejado, por isso a
+oscilação entre 21700 nanosegundos, referente a um item que estava
+mais proximo ao inicio da lista, e 120363700 nanosegundos para um 
+item que estava mais a diante. enquanto isso, o hashmap entregou
+resultados entre 1100 e 3500 nanosegundos.
