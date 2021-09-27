@@ -10,24 +10,25 @@ public class Teste {
 	public static LinkedList<Enderecoip> listaips;
 	
 	public static void main(String[] args)throws Exception{
-		long startTime = System.nanoTime(); //para medir tempo da execução 
+		long startTime = System.nanoTime(); //para medir tempo da execuÃ§Ã£o 
 		listaips= new LinkedList<>();
 		
 		String result[];
 		
-		
+		//considere que access.log esteja dentro do pacote lendoarquivo
 		BufferedReader bufferedReader= new BufferedReader(new FileReader("src/lendoarquivo/access.log"));
-		long contador=0;
+		
+		//long contador=0;
 		String currentLine=bufferedReader.readLine();
 		while(currentLine!=null) {
-			contador++;
+			//contador++;
 			
 			result= currentLine.split(" - - ");
 			adicionaNaLista(result[0]);
 			
 			currentLine=bufferedReader.readLine();
 		}
-		long estimatedTime= System.nanoTime()-startTime; //para medir tempo da execução
+		long estimatedTime= System.nanoTime()-startTime; //para medir tempo da execucao
 		System.out.println("Tempo da montagem de dados: "+estimatedTime+" nanosegundos");
 		
 		bufferedReader= new BufferedReader(new FileReader("src/lendoarquivo/Lista100enderecos.txt"));
